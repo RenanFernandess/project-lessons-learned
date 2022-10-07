@@ -1,8 +1,15 @@
 # project-lessons-learned
-Meu primeiro projeto realizado na Trybe. Esse projeto tem como objetivo fixar o conteúdo aprendido sobre HTML e CSS.
+
+## Sobre o Projeto
+
+Meu primeiro projeto realizado na [Trybe](https://github.com/tryber). Esse projeto tem como objetivo fixar o conteúdo aprendido sobre HTML e CSS.
 
 Nesse projeto aprendi a como criar uma página com HTML e estilizar com CSS, aprendi a posicionar elementos na tela, criar listas e a criar tabelas.
 
-Ferramentas utilizadas:
+## Construido Com
 1 - HTML.
 2 - CSS.
+
+## Contato
+
+Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/)
